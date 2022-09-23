@@ -7,6 +7,7 @@ public class BasicInfo {
 	}
 private void address() {
 	System.out.println("chennai");
+	System.out.println("pudukkottai");
 
 }
 public static void main(String[] args) {
